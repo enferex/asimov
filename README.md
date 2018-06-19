@@ -30,5 +30,5 @@ Alternatively, you can use cabal to execute:
    running `make build`
 
 ## Contact ##
-enferex: mattdavis9@gmail.com
+enferex: https://github.com/enferex
 
